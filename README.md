@@ -1,8 +1,11 @@
 # Hi there! 👋 I'm Bright Sefah
+
+
 <p align="center">
   <img src="https://github.com/Brightside2456/Brightside2456/blob/main/me.jpg" alt="Bright Sefah's Workspace" width="800">
 </p>
-I'm a ** Computer Science and Engineering student ** passionate about solving real-world problems through **technology, innovation, and teamwork**. With experience in **software development**, **IoT**, **embedded systems**, and **hackathons**, I thrive on creating impactful projects that make a difference.
+
+I'm a **Computer Science and Engineering student** passionate about solving real-world problems through **technology, innovation, and teamwork**. With experience in **software development**, **IoT**, **embedded systems**, and **hackathons**, I thrive on creating impactful projects that make a difference.
 
 ## 🚀 About Me
 - 🌱 **Learning:** Constantly exploring the worlds of **AI/ML**, **frontend development**, and **data analysis** to enhance my technical expertise.
