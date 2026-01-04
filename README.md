@@ -24,6 +24,7 @@ I'm a **Computer Science and Engineering student** passionate about solving real
 - **EcommerceX**: A comprehensive e-commerce platform with secure backend features and responsive frontend interfaces.  
 - **GrabnGo Web Extension**: A versatile browser extension for note-taking, link management, and video downloads.  
 - **Blind Smart Stick**: A mobility-enhancing tool featuring sensors, GSM modules, and real-time feedback.  
+- **YapZone**: A TCP Chat Server and Chat Client 
 
 ## 🏆 Achievements
 - 🥇 **Winner**: UMaT 8th Innovation and Career Fair (2024)  
