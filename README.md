@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bright Sefah
+# Hi there! 👋 I'm Bright Sefah.
 
 
 <p align="center">
