@@ -25,7 +25,7 @@ I'm a **Computer Science and Engineering student** passionate about solving real
 - **GrabnGo Web Extension**: A versatile browser extension for note-taking, link management, and video downloads.  
 - **Blind Smart Stick**: A mobility-enhancing tool featuring sensors, GSM modules, and real-time feedback.  
 - **YapZone**: A TCP Chat Server and Chat Client
-- **StuDash**: A School management system.
+- **StuDash**: A School management system
 
 ## 🏆 Achievements
 - 🥇 **Winner**: UMaT 8th Innovation and Career Fair (2024)  
