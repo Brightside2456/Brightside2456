@@ -38,6 +38,6 @@ I'm a **Computer Science and Engineering student** passionate about solving real
 ## 🌐 Let's Connect!
 - **GitHub:** [Brightside2456](https://github.com/Brightside2456)  
 - **LinkedIn:** [Bright Sefah](https://www.linkedin.com/in/brightsefah/)  .
-- **Email:** sefahb13@gmail.com .
+- **Email:** sefahb13@gmail.com.
 
 I'm always excited to collaborate on meaningful projects or discuss new ideas Let's build something amazing together.
