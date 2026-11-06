@@ -33,7 +33,7 @@ I'm a **Computer Science and Engineering student** passionate about solving real
 - 💡 **Hackathon Champion**: Several wins with innovative projects in IoT and software development.  
 
 ## 📚 Learning & Teaching
-- **Mentorship**: Tutor at Aaenics Robotics Club, empowering others in robotics and embedded systems.
+- **Mentorship**: Tutor at Aaenics Robotics Club, empowering others in robotics and embedded systems..
 
 ## 🌐 Let's Connect!
 - **GitHub:** [Brightside2456](https://github.com/Brightside2456)  
