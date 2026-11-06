@@ -18,7 +18,7 @@ I'm a **Computer Science and Engineering student** passionate about solving real
 - **Frameworks & Tools:** Django, Flask, ReactJS, Docker, Next.js, Qt  
 - **Specialties:** Backend Development, Embedded Systems, IoT, RESTful and GraphQL APIs  
 - **Developer Tools:** Git/GitHub, Postman, CI/CD Pipelines  
-- **Cloud & DevOps:** Familiar with AWS, GCP, and Dockerized environments  
+- **Cloud & DevOps:** Familiar with AWS, GCP, and Dockerized environments
 
 ## 🎯 Notable Projects
 - **EcommerceX**: A comprehensive e-commerce platform with secure backend features and responsive frontend interfaces.  
