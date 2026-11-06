@@ -16,7 +16,7 @@ I'm a **Computer Science and Engineering student** passionate about solving real
 ## 🛠️ Skills & Expertise
 - **Languages:** Python, JavaScript, TypeScript, SQL, C, C++  
 - **Frameworks & Tools:** Django, Flask, ReactJS, Docker, Next.js, Qt  
-- **Specialties:** Backend Development, Embedded Systems, IoT, RESTful and GraphQL APIs  
+- **Specialties:** Backend Development, Embedded Systems, IoT, RESTful and GraphQL APIs.
 - **Developer Tools:** Git/GitHub, Postman, CI/CD Pipelines  
 - **Cloud & DevOps:** Familiar with AWS, GCP, and Dockerized environments
 
